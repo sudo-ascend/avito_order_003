@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Заглушка изображения AL.LEX</title>
+  <desc id="desc">Фирменная технологичная заглушка для сайта мультимодельного агентства AL.LEX.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09111f" />
+      <stop offset="55%" stop-color="#153252" />
+      <stop offset="100%" stop-color="#0fa391" />
+    </linearGradient>
+    <linearGradient id="line" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#8aaeff" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#8ce7db" stop-opacity="0.7" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="1200" fill="url(#bg)" />
+  <g opacity="0.18" stroke="url(#line)">
+    <path d="M0 180H1600" />
+    <path d="M0 360H1600" />
+    <path d="M0 540H1600" />
+    <path d="M0 720H1600" />
+    <path d="M0 900H1600" />
+    <path d="M220 0V1200" />
+    <path d="M500 0V1200" />
+    <path d="M780 0V1200" />
+    <path d="M1060 0V1200" />
+    <path d="M1340 0V1200" />
+  </g>
+
+  <circle cx="1210" cy="250" r="180" fill="#8aaeff" opacity="0.12" />
+  <circle cx="370" cy="920" r="240" fill="#8ce7db" opacity="0.1" />
+
+  <rect
+    x="140"
+    y="170"
+    width="1320"
+    height="860"
+    rx="42"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.28"
+    opacity="0.8"
+  />
+
+  <g fill="#f3f7f8">
+    <text x="180" y="315" font-family="Arial, sans-serif" font-size="54" letter-spacing="10">МУЛЬТИМОДЕЛЬНОЕ АГЕНТСТВО</text>
+    <text x="180" y="470" font-family="Arial, sans-serif" font-size="182" font-weight="700">AL.LEX</text>
+    <text x="180" y="585" font-family="Arial, sans-serif" font-size="54" opacity="0.82">
+      Заглушка для фото и медиа-блоков
+    </text>
+    <text x="180" y="760" font-family="Arial, sans-serif" font-size="42" opacity="0.72">
+      Контент будет заменён на материалы клиента
+    </text>
+    <text x="180" y="830" font-family="Arial, sans-serif" font-size="42" opacity="0.72">
+      после утверждения каталога моделей и портфолио
+    </text>
+  </g>
+</svg>
