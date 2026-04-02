@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>AL.LEX favicon</title>
+  <defs>
+    <linearGradient id="bg" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1728" />
+      <stop offset="1" stop-color="#17365b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="21" y1="18" x2="46" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="1" stop-color="#dce9ff" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#bg)" />
+  <rect x="5" y="5" width="54" height="54" rx="17" fill="none" stroke="#89b7ff" stroke-opacity="0.24" />
+  <path
+    d="M15.8 47.5 27.7 16h8.5L48 47.5h-6.7l-2.5-7.1H25.1l-2.5 7.1Zm11-12.5h10.3L31.9 20.8Z"
+    fill="url(#accent)"
+  />
+  <path
+    d="M44.8 21.2h5.3v17.6H56v5.2H44.8Z"
+    fill="#8fbfff"
+  />
+</svg>
