@@ -731,18 +731,10 @@ h3 {
   border-radius: 30px;
   overflow: hidden;
   background:
-    radial-gradient(circle at 86% 18%, rgba(138, 174, 255, 0.18), transparent 18%),
-    linear-gradient(180deg, rgba(7, 13, 23, 0.12), rgba(7, 13, 23, 0.04));
+    radial-gradient(circle at 82% 18%, rgba(138, 174, 255, 0.22), transparent 18%),
+    radial-gradient(circle at 18% 78%, rgba(93, 130, 211, 0.2), transparent 24%),
+    linear-gradient(145deg, #0b1320 0%, #12233a 48%, #1b3f6d 100%);
   box-shadow: 0 28px 56px rgba(16, 24, 38, 0.12);
-}
-
-.hero__media-photo {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: 60% center;
 }
 
 .hero__media::after,
@@ -751,7 +743,9 @@ h3 {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(4, 8, 14, 0.1), rgba(4, 8, 14, 0.45));
+  background:
+    linear-gradient(180deg, rgba(4, 8, 14, 0.08), rgba(4, 8, 14, 0.36)),
+    linear-gradient(120deg, rgba(255, 255, 255, 0.04), transparent 42%);
   pointer-events: none;
 }
 
